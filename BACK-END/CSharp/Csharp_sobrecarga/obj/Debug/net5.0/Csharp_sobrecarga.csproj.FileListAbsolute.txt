@@ -1,0 +1,16 @@
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\bin\Debug\net5.0\Csharp_sobrecarga.exe
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\bin\Debug\net5.0\Csharp_sobrecarga.deps.json
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\bin\Debug\net5.0\Csharp_sobrecarga.runtimeconfig.json
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\bin\Debug\net5.0\Csharp_sobrecarga.runtimeconfig.dev.json
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\bin\Debug\net5.0\Csharp_sobrecarga.dll
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\bin\Debug\net5.0\ref\Csharp_sobrecarga.dll
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\bin\Debug\net5.0\Csharp_sobrecarga.pdb
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\Csharp_sobrecarga.csproj.AssemblyReference.cache
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\Csharp_sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\Csharp_sobrecarga.AssemblyInfoInputs.cache
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\Csharp_sobrecarga.AssemblyInfo.cs
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\Csharp_sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\Csharp_sobrecarga.dll
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\ref\Csharp_sobrecarga.dll
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\Csharp_sobrecarga.pdb
+C:\Users\Facsenac\Downloads\Códigos de estudo\Csharp_sobrecarga\obj\Debug\net5.0\Csharp_sobrecarga.genruntimeconfig.cache

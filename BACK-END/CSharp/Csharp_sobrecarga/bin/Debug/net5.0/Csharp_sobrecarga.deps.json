@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Csharp_sobrecarga/1.0.0": {
+        "runtime": {
+          "Csharp_sobrecarga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Csharp_sobrecarga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
